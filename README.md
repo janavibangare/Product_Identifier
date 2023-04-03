@@ -1,6 +1,6 @@
 # Product_Identifier
  
-👉 This is an application which brings the power of machine learning 🤖 to an android mobile.
+👉 This is an application which brings the power💪🏻 of machine learning 🤖 to an android mobile.
 
 👉 Usecase: To identify object.
 
