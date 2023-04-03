@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\57165d2d999a553de7457c6b3e803a50\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01fa8d445b0046ff2b3e3be8715f5531\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\99f460f95da8a298c840cc7e7c915761\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\be8da2eb2f3f5ffa8d16122f245acb8e\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\e59c1e7e05b108154dbf5091cbceb2ac\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\6254533e5caaa974efd94a1ffc904dd5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\da9e84980061a9b04e6660a56080f1ff\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\7139f45f4104f5d27394892e52276bca\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\69952c39f43b1fb13d2875101c84891d\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\d9eb08a7ae3a48ca1f1895859c79cc61\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\317379ab85ae0d4570223655800d9278\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\50b6c341fe76d04175e695718e9c72fd\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\a69a4a26a08aeba4ca3823cffafb267b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1bdfe483f64b28e7b37195e8a3a2c702\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8f50f44b49c458abedba165fe73bb426\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\41ee3c2139924c36e7f55a26c96e92eb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1a9ace192ea43490573aab0efb92a0ea\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\0b345220915e94debcb75d218c1200cf\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\78d08e8825033cb8d329a7d899830fe9\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\77c295734c5e8dcc4b5de892b800db38\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\30478877c839384d04d47ed4ec6e7be5\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\814c92cf7d00ce7d8586a2fda0619e92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\49b1113c9f5e370d59d7e8a3cd36f98a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\23b8f4455dbfdf35670a46bcaed25557\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\43a977cb7be489246d4da95ef12e0b24\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8ba5794d6a7a819397a04d0d8ff18d8a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\47d8512d755f588316a79a96136995a5\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\51101fc269274e0d85255b2529ff39a6\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\5a053313c407b69b6b034d22fa972c73\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\67a8dc78e57c56e78154bac16c135e15\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\87c54e0e9d3b2df16eaa302b5c7ebd35\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01c5435b2b5b570f613af7652574114f\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:2:5-58
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\57165d2d999a553de7457c6b3e803a50\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\57165d2d999a553de7457c6b3e803a50\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01fa8d445b0046ff2b3e3be8715f5531\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01fa8d445b0046ff2b3e3be8715f5531\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\99f460f95da8a298c840cc7e7c915761\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\99f460f95da8a298c840cc7e7c915761\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\be8da2eb2f3f5ffa8d16122f245acb8e\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\be8da2eb2f3f5ffa8d16122f245acb8e\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\e59c1e7e05b108154dbf5091cbceb2ac\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\e59c1e7e05b108154dbf5091cbceb2ac\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\6254533e5caaa974efd94a1ffc904dd5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\6254533e5caaa974efd94a1ffc904dd5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\da9e84980061a9b04e6660a56080f1ff\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\da9e84980061a9b04e6660a56080f1ff\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\7139f45f4104f5d27394892e52276bca\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\7139f45f4104f5d27394892e52276bca\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\69952c39f43b1fb13d2875101c84891d\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\69952c39f43b1fb13d2875101c84891d\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\d9eb08a7ae3a48ca1f1895859c79cc61\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\d9eb08a7ae3a48ca1f1895859c79cc61\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\317379ab85ae0d4570223655800d9278\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\317379ab85ae0d4570223655800d9278\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\50b6c341fe76d04175e695718e9c72fd\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\50b6c341fe76d04175e695718e9c72fd\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\a69a4a26a08aeba4ca3823cffafb267b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\a69a4a26a08aeba4ca3823cffafb267b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1bdfe483f64b28e7b37195e8a3a2c702\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1bdfe483f64b28e7b37195e8a3a2c702\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8f50f44b49c458abedba165fe73bb426\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8f50f44b49c458abedba165fe73bb426\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\41ee3c2139924c36e7f55a26c96e92eb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\41ee3c2139924c36e7f55a26c96e92eb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1a9ace192ea43490573aab0efb92a0ea\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\1a9ace192ea43490573aab0efb92a0ea\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\0b345220915e94debcb75d218c1200cf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\0b345220915e94debcb75d218c1200cf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\78d08e8825033cb8d329a7d899830fe9\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\78d08e8825033cb8d329a7d899830fe9\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\77c295734c5e8dcc4b5de892b800db38\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\77c295734c5e8dcc4b5de892b800db38\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\30478877c839384d04d47ed4ec6e7be5\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\30478877c839384d04d47ed4ec6e7be5\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\814c92cf7d00ce7d8586a2fda0619e92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\814c92cf7d00ce7d8586a2fda0619e92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\49b1113c9f5e370d59d7e8a3cd36f98a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\49b1113c9f5e370d59d7e8a3cd36f98a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\23b8f4455dbfdf35670a46bcaed25557\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\23b8f4455dbfdf35670a46bcaed25557\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\43a977cb7be489246d4da95ef12e0b24\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\43a977cb7be489246d4da95ef12e0b24\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8ba5794d6a7a819397a04d0d8ff18d8a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\8ba5794d6a7a819397a04d0d8ff18d8a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\47d8512d755f588316a79a96136995a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\47d8512d755f588316a79a96136995a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\51101fc269274e0d85255b2529ff39a6\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\51101fc269274e0d85255b2529ff39a6\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\5a053313c407b69b6b034d22fa972c73\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\5a053313c407b69b6b034d22fa972c73\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\67a8dc78e57c56e78154bac16c135e15\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\67a8dc78e57c56e78154bac16c135e15\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\87c54e0e9d3b2df16eaa302b5c7ebd35\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\87c54e0e9d3b2df16eaa302b5c7ebd35\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01c5435b2b5b570f613af7652574114f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ravin\.gradle\caches\transforms-3\01c5435b2b5b570f613af7652574114f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from F:\Product_Identifier\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:9:19-67
+application
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\57165d2d999a553de7457c6b3e803a50\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\57165d2d999a553de7457c6b3e803a50\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\69952c39f43b1fb13d2875101c84891d\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\69952c39f43b1fb13d2875101c84891d\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\d9eb08a7ae3a48ca1f1895859c79cc61\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\ravin\.gradle\caches\transforms-3\d9eb08a7ae3a48ca1f1895859c79cc61\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\30478877c839384d04d47ed4ec6e7be5\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\30478877c839384d04d47ed4ec6e7be5\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\ravin\.gradle\caches\transforms-3\f1f88aa3596654f0f7f4c804fcd13e05\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:15:9-61
+	android:roundIcon
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:16:9-50
+	android:icon
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:18:9-40
+activity#org.tensorflow.lite.examples.classification.ClassifierActivity
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:20:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from F:\Product_Identifier\app\src\main\AndroidManifest.xml:25:27-74
